@@ -5,8 +5,11 @@ Willkommen im GitHub-Auftritt der **Thomas-Krenn.AG** – einem der führenden H
 ## Wer wir sind
 Die Thomas-Krenn.AG ist einer der größten Hersteller individueller Server- und Storage-Systeme in Deutschland. 
 Derzeit produzieren rund 230 Mitarbeiterinnen und Mitarbeitern alle Systeme am Standort Freyung. 
-Seit 2002 beliefert das Unternehmen Endanwender, Wiederverkäufer und Betreiber von Rechenzentren mit hochwertiger Hardware nach dem Build-to-Order-Prinzip. 
+Seit 2002 beliefert das Unternehmen Endanwender, Reseller und Betreiber von Rechenzentren mit hochwertiger Hardware nach dem Build-to-Order-Prinzip. 
 Thomas-Krenn steht für höchste Servicequalität bei hardwarenaher Entwicklung, Auftragsfertigung, Lösungsentwicklung, Produktveredlung und Logistik – als zuverlässiger Partner für Industrie, Systemhäuser, Dienstleister und mittelständische Endkunden aller Branchen.
+Entsprechend DIN EN ISO 14001 werden bei Nachhaltigkeit und Ökologie höchste Maßstäbe erfüllt, wie auch bei Cybersicherheit gemäß DIN EN ISO 27001. Gemeinsam mit dem Tochterunternehmen EXTRA Computer GmbH ist die Thomas-Krenn.AG einer der größten Hersteller von IT-Hardware in Deutschland. 
+
+Mehr Informationen unter: https://www.thomas-krenn.com | https://www.extracomputer.de
 
 ## Was wir tun
 Wir entwickeln, produzieren und liefern maßgeschneiderte Server-, Storage- und Infrastruktur-Lösungen.  
