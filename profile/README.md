@@ -1,4 +1,4 @@
-# Thomas-Krenn.AG – Offizielles GitHub-Profil
+# Thomas-Krenn.AG – Offizielles GitHub
 
 Willkommen im GitHub-Auftritt der **Thomas-Krenn.AG** – einem der führenden Hersteller individueller Server- und Storage-Systeme in Deutschland.
 
