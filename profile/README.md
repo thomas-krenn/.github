@@ -1,39 +1,39 @@
-# Thomas-Krenn.AG – Offizielles GitHub
+# Thomas-Krenn.AG – Official GitHub
 
-Willkommen im GitHub-Auftritt der **Thomas-Krenn.AG** – einem der führenden Hersteller individueller Server- und Storage-Systeme in Deutschland.
+Welcome to the GitHub page of **Thomas-Krenn.AG** – one of Germany's leading manufacturers of customized server and storage systems.
 
-## Wer wir sind
-Die Thomas-Krenn.AG ist einer der größten Hersteller individueller Server- und Storage-Systeme in Deutschland. 
-Derzeit produzieren rund 230 Mitarbeiterinnen und Mitarbeitern alle Systeme am Standort Freyung. 
-Seit 2002 beliefert das Unternehmen Endanwender, Reseller und Betreiber von Rechenzentren mit hochwertiger Hardware nach dem Build-to-Order-Prinzip. 
-Thomas-Krenn steht für höchste Servicequalität bei hardwarenaher Entwicklung, Auftragsfertigung, Lösungsentwicklung, Produktveredlung und Logistik – als zuverlässiger Partner für Industrie, Systemhäuser, Dienstleister und mittelständische Endkunden aller Branchen.
-Entsprechend DIN EN ISO 14001 werden bei Nachhaltigkeit und Ökologie höchste Maßstäbe erfüllt, wie auch bei Cybersicherheit gemäß DIN EN ISO 27001. Gemeinsam mit dem Tochterunternehmen EXTRA Computer GmbH ist die Thomas-Krenn.AG einer der größten Hersteller von IT-Hardware in Deutschland. 
+## Who we are
+Thomas-Krenn.AG is one of the largest manufacturers of customized server and storage systems in Germany. 
+Currently, around 230 employees produce all systems at the Freyung site. 
+Since 2002, the company has been supplying end users, resellers, and data center operators with high-quality hardware based on the build-to-order principle. 
+Thomas-Krenn stands for the highest quality of service in hardware-related development, contract manufacturing, solution development, product refinement, and logistics – as a reliable partner for industry, system houses, service providers, and medium-sized end customers in all sectors.
+In accordance with DIN EN ISO 14001, the highest standards are met in terms of sustainability and ecology, as well as in terms of cyber security in accordance with DIN EN ISO 27001. Together with its subsidiary EXTRA Computer GmbH, Thomas-Krenn.AG is one of the largest manufacturers of IT hardware in Germany. 
 
-Mehr Informationen unter: https://www.thomas-krenn.com | https://www.extracomputer.de
+For more information, visit: https://www.thomas-krenn.com | https://www.extracomputer.de
 
-## Was wir tun
-Wir entwickeln, produzieren und liefern maßgeschneiderte Server-, Storage- und Infrastruktur-Lösungen.  
-Dabei legen wir besonderen Wert auf:
+## What we do
+We develop, produce, and deliver customized server, storage, and infrastructure solutions.  
+In doing so, we place particular emphasis on:
 
-- hohe Qualität und Langlebigkeit  
-- transparente Konfiguration  
-- innovative Technologien  
-- technische Expertise  
-- individuelle Beratung
+- High quality and durability  
+- Transparent configuration  
+- Innovative technologies  
+- Technical expertise  
+- Individual consultation
 
-Zusätzlich unterstützen wir unsere Kunden mit Dokumentationen, Know-how und Open-Source-Beiträgen.
+We also support our customers with documentation, know-how, and open-source contributions.
 
-## Zweck dieses GitHub-Accounts
-Dieser GitHub-Account dient als zentrale Plattform für:
+## Purpose of this GitHub account
+This GitHub account serves as a central platform for:
 
-- **Skripte und Werkzeuge**  
-  Hilfreiche Tools für Betrieb, Monitoring oder Troubleshooting unserer Systeme.
+- **Scripts and tools**  
+  Helpful tools for operating, monitoring, or troubleshooting our systems.
 
-- **Open-Source-Komponenten**  
-  Projekte, die wir pflegen oder an denen wir uns beteiligen.
+- **Open source components**  
+  Projects that we maintain or participate in.
 
-Unser Ziel ist es, Kunden, Partnern und der Community praktische Hilfsmittel an die Hand zu geben, um unsere Produkte optimal zu nutzen und eigene Lösungen zu erweitern.
+Our goal is to provide customers, partners, and the community with practical tools to make the most of our products and expand their own solutions.
 
-## Kontakt
-Weitere Informationen über unser Unternehmen, Produkte und Supportangebote finden Sie unter:  
+## Contact
+For more information about our company, products, and support offerings, please visit:  
 **https://www.thomas-krenn.com**
